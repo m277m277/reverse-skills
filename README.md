@@ -16,6 +16,7 @@
 | `rev-unicorn-debug` | 使用 Unicorn 引擎模拟执行和调试指定代码片段 |
 | `rev-dex-dumper` | 从运行中的 Android 应用内存中 dump DEX 文件，用于整体加固脱壳 |
 | `rev-u3d-dump` | 从 Unity IL2CPP 构建中提取 C# 符号地址，生成 IDA/Ghidra 导入脚本 |
+| `rev-idapython` | IDAPython / IDALib 脚本参考，涵盖调试、内存操作、反编译、混淆辅助、批量分析等 |
 
 ## 安装
 

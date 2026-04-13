@@ -16,6 +16,7 @@ Reverse engineering analysis skills, supporting 40+ AI coding agents.
 | `rev-unicorn-debug` | Debug specific code snippets using Unicorn emulator with environment simulation |
 | `rev-dex-dumper` | Dump DEX files from a running Android app's memory for unpacking |
 | `rev-u3d-dump` | Extract C# symbols from Unity IL2CPP builds, generate IDA/Ghidra import scripts |
+| `rev-idapython` | IDAPython / IDALib script reference covering debugging, memory ops, decompiler API, obfuscation helpers, and batch analysis |
 
 ## Installation
 
